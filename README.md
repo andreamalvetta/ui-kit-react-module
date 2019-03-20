@@ -11,7 +11,7 @@ Custom made node module for [React](https://reactjs.org/) projects.
 - To make a production build use `npm run build` or `yarn build`
 
 ## Next step
-- Install UI Kit React Module - [https://github.com/andreamalvetta/ui-kit-react-module](https://github.com/andreamalvetta/ui-kit-react-module)
+- Install UI Kit React App - [https://github.com/andreamalvetta/ui-kit-react-app](https://github.com/andreamalvetta/ui-kit-react-app)
 
 ## Contributions
 Feel free to contribute to this project
