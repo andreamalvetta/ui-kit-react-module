@@ -1,6 +1,12 @@
 # UI Kit (React Module)
 Custom made node module for [React](https://reactjs.org/) projects.
 
+## To-Do List
+- [ ] SCSS partials with Styled Components
+- [ ] Investigating Storybook
+- [ ] More React components
+- [ ] More Storybook stories
+
 ## Prerequisites
 - Node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
 
